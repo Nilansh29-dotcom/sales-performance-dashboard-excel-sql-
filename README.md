@@ -29,9 +29,10 @@ This project focuses on analyzing retail sales data to track business performanc
 - A small group of customers contributes a large share of total sales
 
 ## Files Included
-- dashboard.xlsx
-- dataset.csv
-- queries.sql
+- Sales Excel Dashboard 2.xlsx
+- Sales Excel Dashboard.csv
+- Sales Excel Dashboard 2.pdf
+- Sales Analysis Queries.sql
   
 ##  Conclusion
 The dashboard enables quick analysis of business performance and supports data-driven decision-making.
